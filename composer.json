@@ -28,10 +28,10 @@
     },
     "autoload": {
         "classmap": [
-            "src/commands"
+            "zizaco/entrust/src/commands"
         ],
         "psr-4": {
-            "Zizaco\\Entrust\\": "src/Entrust/"
+            "Zizaco\\Entrust\\": "zizaco/entrust/src/Entrust/"
         }
     },
     "extra": {
